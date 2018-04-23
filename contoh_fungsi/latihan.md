@@ -1,0 +1,2 @@
+#LATIHAN
+Pak Haji Dadang Konelo adalah sedang mendapatkan sebuah proyek pengecoran jalan. Untuk membuat jalan seluas 1 m2, membutuhkan 10kg semen, 20kg pasir dan 30kg split. Harga semen saat ini adalah 500.000/sak (50kg), harga pasir 1.000.000/ton dan harga split 800.000/ton. Bantulah Pak Haji Dadang Konelo untuk menghitung jumlah biaya yang dibutuhkan jika input yang diperbolehkan hanya lebar jalan dan panjang jalan (dalam meter).
